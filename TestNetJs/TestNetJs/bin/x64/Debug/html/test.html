@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <p> Javascript Callback 测试 </p>
+    <script type="text/javascript">
+        function callback(s) {
+            var result = document.getElementById('show');
+            result.innerText += "callback返回值:" + s.toString() + " 时间：" + Date();
+        }
+        function TestCallback() {
+            bound.TestCallback(callback);
+            var result = document.getElementById('show');
+            result.innerText = "方法返回  时间: " + Date() + "\n";
+            //window.location.assign("http://www.baidu.com");
+        }
+    </script>
+    <button onclick="TestCallback()">TestCallBakck</button>
+    <br />
+    <span id="show"></span>
+
+    <hr />
+    <p>
+        带参数调用C# repeat方法
+    </p>
+    <span id="content">
+    </span>
+    <script type="text/javascript">
+        var result = bound.Repeat("hello ", 6);
+        document.getElementById("content").innerHTML = "" + result + "";
+    </script>
+    <hr />
+    <p> 委托C#方法-返回json字符串</p>
+    <script type="text/javascript">
+        function myfunc(fucPara) {
+            return fucPara();
+        }
+        var res = myfunc(bound.ReturnJsonEmployeeList);
+        document.write("委托输出结果：" + res + "<br>");
+        var json = JSON.parse(res); //eval("'"+ res+"'");
+        document.write("employees 数量：" + json.employees.length + "<br>");
+        document.write("json.employees[0].lastName :" + json.employees[0].lastName);
+    </script>
+    <hr />
+    <p>
+        返回实体对象
+    </p>
+    <script type="text/javascript">
+        document.write("bound.GetSubObject().SimpleProperty : " + bound.GetSubObject().SimpleProperty);
+    </script>
+    <p></p>
+</body>
+</html>

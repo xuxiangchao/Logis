@@ -1,0 +1,6 @@
+D:\LogisItem\TestNetJs\TestNetJs\obj\x86\Debug\TestNetJs.csprojAssemblyReference.cache
+D:\LogisItem\TestNetJs\TestNetJs\obj\x86\Debug\MainWindow.g.cs
+D:\LogisItem\TestNetJs\TestNetJs\obj\x86\Debug\App.g.cs
+D:\LogisItem\TestNetJs\TestNetJs\obj\x86\Debug\TestNetJs_Content.g.cs
+D:\LogisItem\TestNetJs\TestNetJs\obj\x86\Debug\TestNetJs_MarkupCompile.cache
+D:\LogisItem\TestNetJs\TestNetJs\obj\x86\Debug\TestNetJs_MarkupCompile.lref

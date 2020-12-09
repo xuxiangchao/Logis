@@ -1,0 +1,15 @@
+D:\LogisItem\TestNetJs\TestNetJs\bin\Debug\TestNetJs.exe.config
+D:\LogisItem\TestNetJs\TestNetJs\bin\Debug\TestNetJs.exe
+D:\LogisItem\TestNetJs\TestNetJs\bin\Debug\TestNetJs.pdb
+D:\LogisItem\TestNetJs\TestNetJs\obj\Debug\TestNetJs.csprojAssemblyReference.cache
+D:\LogisItem\TestNetJs\TestNetJs\obj\Debug\MainWindow.g.cs
+D:\LogisItem\TestNetJs\TestNetJs\obj\Debug\App.g.cs
+D:\LogisItem\TestNetJs\TestNetJs\obj\Debug\TestNetJs_MarkupCompile.cache
+D:\LogisItem\TestNetJs\TestNetJs\obj\Debug\TestNetJs_MarkupCompile.lref
+D:\LogisItem\TestNetJs\TestNetJs\obj\Debug\MainWindow.baml
+D:\LogisItem\TestNetJs\TestNetJs\obj\Debug\TestNetJs.g.resources
+D:\LogisItem\TestNetJs\TestNetJs\obj\Debug\TestNetJs.Properties.Resources.resources
+D:\LogisItem\TestNetJs\TestNetJs\obj\Debug\TestNetJs.csproj.GenerateResource.cache
+D:\LogisItem\TestNetJs\TestNetJs\obj\Debug\TestNetJs.csproj.CoreCompileInputs.cache
+D:\LogisItem\TestNetJs\TestNetJs\obj\Debug\TestNetJs.exe
+D:\LogisItem\TestNetJs\TestNetJs\obj\Debug\TestNetJs.pdb
